@@ -1,0 +1,14 @@
+.p-4{
+    background-color: #73baf0;
+}
+
+
+.main{
+    display: flex;
+    justify-content: space-around;
+    height: 25px;
+}
+
+.main p{
+    font-size: 30px;
+}

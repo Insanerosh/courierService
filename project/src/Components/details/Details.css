@@ -1,0 +1,56 @@
+.detail{
+    background-image: url(./pic/pexels-engin-akyurt-2456432.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  
+  }
+  .details-form{
+    position: absolute;
+    top: 140%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(150, 191, 211, 0.6);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 800px;
+    height: 1100px;
+    /* text-align: center; */
+  }
+  .de{
+    margin-left: 10rem;
+  }
+
+  .in{
+    color: white;
+  }
+
+  .line{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(150, 191, 211, 0.6);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 800px;
+    height: 70px;
+  }
+
+  @media only screen and (max-width :768px){
+    .detail{
+      padding: 20px;
+    }
+    .details-form{
+      width: 100%;
+      border:1px solid #ccc;
+      padding: 10px;
+      border-radius: 10px;
+    }
+
+    .line{
+      width:100%;
+    }
+  }

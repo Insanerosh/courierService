@@ -1,0 +1,25 @@
+.con{
+    background-image: url(./pexels-pixabay-531972.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   
+  }
+
+  /* .con-form{
+    position: absolute;
+    top: 62%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(218, 226, 230, 0.4);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 500px;
+    text-align: center;
+   
+  }
+
+  .p1{
+    margin-top: 400px;
+  } */

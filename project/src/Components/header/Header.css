@@ -1,0 +1,30 @@
+.d-flex{
+        background: #73baf0;
+}
+
+.navbar-brand{
+        width: 10rem;
+        height: 3rem;
+        
+        margin-top: 15px;
+        margin-left: 7px;
+}
+
+.nav-link:hover{
+        background-color: rgb(223, 59, 59)
+}
+
+@media only screen and (max-width:768px){
+        .d-flex{
+                flex-direction: column;
+                align-items: stretch;
+                height: auto;
+                margin-left: auto;
+                justify-content: center;
+                
+        }
+        .nav-item{
+                margin-left: auto;
+                font-size: smaller;
+        }
+}

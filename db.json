@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": "26ef",
+      "username": "Test",
+      "email": "test@gmail.com",
+      "password": "$2a$05$rD8jUCaRdBYqT4KDIQIaeuc0PBvKTtTbMbxdPa.Wgcci0QGQmWY.y",
+      "telephone": "9876543210"
+    },
+    {
+      "id": "b643",
+      "username": "User",
+      "email": "user@gmail.com",
+      "password": "$2a$05$ZRojGnnxEAg1V5lKXXEYrOYMXyLmMbJHVzGT4wN6eqizUZDZGn/im",
+      "telephone": "8657463542"
+    },
+    {
+      "id": "b713",
+      "username": "roshini",
+      "email": "iougyftd@mail.com",
+      "password": "$2a$05$gUIAge/R2pIqe16vMlAk6.NfW4G0b4u9T5JrF2kyhHFzA3myHp7yy",
+      "telephone": "8657463542"
+    },
+    {
+      "id": "bf21",
+      "username": "roshini",
+      "email": "broshini2001@gmail.com",
+      "password": "$2a$05$8b4kWdQyJTJwjnRApitWIO1LSpXu8C0Vxvh7cyXLRaYtPT96wUpwi",
+      "telephone": "9876543210"
+    },
+    {
+      "id": "0892",
+      "username": "tanuja",
+      "email": "tanuja@mail.com",
+      "password": "$2a$05$ArWfVs3JBIxCERNOBEGxTuSVNBny38EPrtIpMi2DKLE/ROPmxFOly",
+      "telephone": "9876543210"
+    }
+  ],
+  "details": [
+    {
+      "id": "013b",
+      "name": "Test",
+      "weight": "6",
+      "service": "Premium",
+      "booking": "dropoff",
+      "content": "trees",
+      "from": "gangotri",
+      "to": "kashi",
+      "price": 850
+    },
+    {
+      "id": "e68c",
+      "name": "User",
+      "weight": "3",
+      "service": "Express",
+      "booking": "pickup",
+      "content": "couch",
+      "from": "hyderabad",
+      "to": "visakhapatnam",
+      "price": 700
+    },
+    {
+      "id": "8cfd",
+      "name": "roshini",
+      "weight": "2",
+      "service": "Standard",
+      "booking": "dropoff",
+      "content": "glass items",
+      "from": "hyderabad",
+      "to": "begumpet",
+      "price": 450
+    },
+    {
+      "id": "647f",
+      "name": "tanuja",
+      "weight": "10",
+      "service": "Express",
+      "booking": "dropoff",
+      "content": "lap",
+      "from": "mumbai",
+      "to": "delhi",
+      "price": 650
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+.lg{
+  background-image: url(./img/pexels-simon-berger-4462327\ \(1\).jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  /* display: flex; */
+  /* align-items:flex-end; */
+  /* justify-content: center; */
+}
+.login-container {
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(150, 191, 211, 0.4);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  width: 500px;
+  text-align: center;
+}
+/* .lo{
+  margin-left: 5rem;
+} */
+
+@media only screen and (max-width:768px){
+  .login-container{
+    width: 300px;
+  }
+}

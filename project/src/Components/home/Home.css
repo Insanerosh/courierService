@@ -1,0 +1,23 @@
+.bgimg{
+    background-image: url(./image/cms.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items:flex-end;
+    justify-content: center;
+}
+.btn{
+   margin-bottom: 40px;
+   margin-left: 50px;
+}
+
+.headin{
+   
+  text-align: center;
+  margin-bottom:-4rem;
+  color: rgb(197, 25, 25);
+  font-style: oblique;
+
+
+}

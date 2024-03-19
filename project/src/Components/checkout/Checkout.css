@@ -1,0 +1,46 @@
+.check-form{
+    background-image: url(./pexels-lumn-311039.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   
+  }
+ 
+
+.btns{
+margin-left: 40%;
+}
+.check-container{
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(201, 215, 222, 0.3);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 550px;
+  }
+
+  .btn{
+    margin-left:0rem;
+  
+
+  }
+  @media only screen and(max-width:768px) {
+      .check-container{
+        width: 70%;
+        left: 10px;
+      }
+  }
+
+  /* .check{
+    margin-left: 15rem;
+  } */
+
+  
+
+
+  
+
+ 
